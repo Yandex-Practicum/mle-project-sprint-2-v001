@@ -1,1 +1,2 @@
-# mle-project-sprint-2-v001
+# mle-template-case-sprint2
+Репозиторий-шаблон для решения проекта 2 спринта
